@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-Welcome to the **Bank Customer Churn Prediction** project! This application uses machine learning to predict whether a customer is likely to leave a bank based on their transaction history, demographics, and other behavioral data.
+Welcome to the **Bank Customer Churn Prediction** project! This System uses machine learning to predict whether a customer is likely to leave a bank based on their transaction history, demographics, and other behavioral data.
 
 ---
 
